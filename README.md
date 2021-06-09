@@ -3,10 +3,6 @@ This is the source code of FlowSpectrum.
 
 ## File
 
-Dataset.zip includes the raw NSLKDD dataset files we used.
-
-Data.zip includes the datafiles for training and test.
-
 Decomposer_semiAE.py is used to build the neural network structure based on semi-supervised AutoEncoder.
 
 Decomposer_training.py is used for continuous training of the decomposer.
